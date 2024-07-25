@@ -21,6 +21,10 @@ const AlfamosPage = () => {
         <p className="mt-4 text-xs text-green-200">
             As you progress, trade with fellow players to expand your collection, and watch your Alfamons evolve into more powerful forms.
         </p>
+        <p className="mt-4 text-xs text-green-400">
+          Built with
+            <a className="flex justify-center mt-2" href="https://www.ctx.xyz"><img src='/ctx_logo.png' alt="Context Protocol" className="w-1/4" /></a>
+        </p>
 
         </section>
 
